@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PQDT-LESSA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PQDT-LESSA\\.nuget\\packages"
+    ]
+  }
+}

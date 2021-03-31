@@ -1,0 +1,16 @@
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\bin\Debug\net5.0\destructuring.exe
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\bin\Debug\net5.0\destructuring.deps.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\bin\Debug\net5.0\destructuring.runtimeconfig.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\bin\Debug\net5.0\destructuring.runtimeconfig.dev.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\bin\Debug\net5.0\destructuring.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\bin\Debug\net5.0\ref\destructuring.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\bin\Debug\net5.0\destructuring.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\obj\Debug\net5.0\destructuring.csprojAssemblyReference.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\obj\Debug\net5.0\destructuring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\obj\Debug\net5.0\destructuring.AssemblyInfoInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\obj\Debug\net5.0\destructuring.AssemblyInfo.cs
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\obj\Debug\net5.0\destructuring.csproj.CoreCompileInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\obj\Debug\net5.0\destructuring.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\obj\Debug\net5.0\ref\destructuring.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\obj\Debug\net5.0\destructuring.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\destructuring\obj\Debug\net5.0\destructuring.genruntimeconfig.cache

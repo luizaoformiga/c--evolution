@@ -1,0 +1,16 @@
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\bin\Debug\net5.0\metodos2.exe
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\bin\Debug\net5.0\metodos2.deps.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\bin\Debug\net5.0\metodos2.runtimeconfig.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\bin\Debug\net5.0\metodos2.runtimeconfig.dev.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\bin\Debug\net5.0\metodos2.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\bin\Debug\net5.0\ref\metodos2.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\bin\Debug\net5.0\metodos2.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\obj\Debug\net5.0\metodos2.csprojAssemblyReference.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\obj\Debug\net5.0\metodos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\obj\Debug\net5.0\metodos2.AssemblyInfoInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\obj\Debug\net5.0\metodos2.AssemblyInfo.cs
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\obj\Debug\net5.0\metodos2.csproj.CoreCompileInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\obj\Debug\net5.0\metodos2.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\obj\Debug\net5.0\ref\metodos2.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\obj\Debug\net5.0\metodos2.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\metodos2\obj\Debug\net5.0\metodos2.genruntimeconfig.cache

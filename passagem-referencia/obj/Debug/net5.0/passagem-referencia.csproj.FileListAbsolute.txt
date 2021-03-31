@@ -1,0 +1,16 @@
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\obj\Debug\net5.0\passagem-referencia.csprojAssemblyReference.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\obj\Debug\net5.0\passagem-referencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\obj\Debug\net5.0\passagem-referencia.AssemblyInfoInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\obj\Debug\net5.0\passagem-referencia.AssemblyInfo.cs
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\obj\Debug\net5.0\passagem-referencia.csproj.CoreCompileInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\bin\Debug\net5.0\passagem-referencia.exe
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\bin\Debug\net5.0\passagem-referencia.deps.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\bin\Debug\net5.0\passagem-referencia.runtimeconfig.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\bin\Debug\net5.0\passagem-referencia.runtimeconfig.dev.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\bin\Debug\net5.0\passagem-referencia.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\bin\Debug\net5.0\ref\passagem-referencia.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\bin\Debug\net5.0\passagem-referencia.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\obj\Debug\net5.0\passagem-referencia.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\obj\Debug\net5.0\ref\passagem-referencia.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\obj\Debug\net5.0\passagem-referencia.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\passagem-referencia\obj\Debug\net5.0\passagem-referencia.genruntimeconfig.cache

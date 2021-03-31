@@ -1,0 +1,16 @@
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\bin\Debug\net5.0\arguments.exe
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\bin\Debug\net5.0\arguments.deps.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\bin\Debug\net5.0\arguments.runtimeconfig.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\bin\Debug\net5.0\arguments.runtimeconfig.dev.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\bin\Debug\net5.0\arguments.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\bin\Debug\net5.0\ref\arguments.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\bin\Debug\net5.0\arguments.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\obj\Debug\net5.0\arguments.csprojAssemblyReference.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\obj\Debug\net5.0\arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\obj\Debug\net5.0\arguments.AssemblyInfoInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\obj\Debug\net5.0\arguments.AssemblyInfo.cs
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\obj\Debug\net5.0\arguments.csproj.CoreCompileInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\obj\Debug\net5.0\arguments.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\obj\Debug\net5.0\ref\arguments.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\obj\Debug\net5.0\arguments.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\arguments\obj\Debug\net5.0\arguments.genruntimeconfig.cache

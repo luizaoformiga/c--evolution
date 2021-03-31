@@ -1,0 +1,16 @@
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\obj\Debug\net5.0\this.csprojAssemblyReference.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\obj\Debug\net5.0\this.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\obj\Debug\net5.0\this.AssemblyInfoInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\obj\Debug\net5.0\this.AssemblyInfo.cs
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\obj\Debug\net5.0\this.csproj.CoreCompileInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\bin\Debug\net5.0\this.exe
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\bin\Debug\net5.0\this.deps.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\bin\Debug\net5.0\this.runtimeconfig.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\bin\Debug\net5.0\this.runtimeconfig.dev.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\bin\Debug\net5.0\this.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\bin\Debug\net5.0\ref\this.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\bin\Debug\net5.0\this.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\obj\Debug\net5.0\this.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\obj\Debug\net5.0\ref\this.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\obj\Debug\net5.0\this.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\this\obj\Debug\net5.0\this.genruntimeconfig.cache

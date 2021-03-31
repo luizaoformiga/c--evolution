@@ -1,0 +1,16 @@
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\bin\Debug\net5.0\herança-constructor.exe
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\bin\Debug\net5.0\herança-constructor.deps.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\bin\Debug\net5.0\herança-constructor.runtimeconfig.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\bin\Debug\net5.0\herança-constructor.runtimeconfig.dev.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\bin\Debug\net5.0\herança-constructor.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\bin\Debug\net5.0\ref\herança-constructor.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\bin\Debug\net5.0\herança-constructor.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\obj\Debug\net5.0\herança-constructor.csprojAssemblyReference.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\obj\Debug\net5.0\herança-constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\obj\Debug\net5.0\herança-constructor.AssemblyInfoInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\obj\Debug\net5.0\herança-constructor.AssemblyInfo.cs
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\obj\Debug\net5.0\herança-constructor.csproj.CoreCompileInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\obj\Debug\net5.0\herança-constructor.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\obj\Debug\net5.0\ref\herança-constructor.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\obj\Debug\net5.0\herança-constructor.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\herança-constructor\obj\Debug\net5.0\herança-constructor.genruntimeconfig.cache

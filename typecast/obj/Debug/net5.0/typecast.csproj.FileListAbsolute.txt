@@ -1,0 +1,16 @@
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\obj\Debug\net5.0\typecast.csprojAssemblyReference.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\obj\Debug\net5.0\typecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\obj\Debug\net5.0\typecast.AssemblyInfoInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\obj\Debug\net5.0\typecast.AssemblyInfo.cs
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\obj\Debug\net5.0\typecast.csproj.CoreCompileInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\bin\Debug\net5.0\typecast.exe
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\bin\Debug\net5.0\typecast.deps.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\bin\Debug\net5.0\typecast.runtimeconfig.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\bin\Debug\net5.0\typecast.runtimeconfig.dev.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\bin\Debug\net5.0\typecast.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\bin\Debug\net5.0\ref\typecast.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\bin\Debug\net5.0\typecast.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\obj\Debug\net5.0\typecast.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\obj\Debug\net5.0\ref\typecast.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\obj\Debug\net5.0\typecast.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\typecast\obj\Debug\net5.0\typecast.genruntimeconfig.cache

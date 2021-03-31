@@ -1,0 +1,5 @@
+C:\Users\PQDT-LESSA\Desktop\curso de C#\protected\obj\Debug\net5.0\protected.csprojAssemblyReference.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\protected\obj\Debug\net5.0\protected.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PQDT-LESSA\Desktop\curso de C#\protected\obj\Debug\net5.0\protected.AssemblyInfoInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\protected\obj\Debug\net5.0\protected.AssemblyInfo.cs
+C:\Users\PQDT-LESSA\Desktop\curso de C#\protected\obj\Debug\net5.0\protected.csproj.CoreCompileInputs.cache

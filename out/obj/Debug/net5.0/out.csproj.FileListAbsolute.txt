@@ -1,0 +1,16 @@
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\bin\Debug\net5.0\out.exe
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\bin\Debug\net5.0\out.deps.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\bin\Debug\net5.0\out.runtimeconfig.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\bin\Debug\net5.0\out.runtimeconfig.dev.json
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\bin\Debug\net5.0\out.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\bin\Debug\net5.0\ref\out.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\bin\Debug\net5.0\out.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\obj\Debug\net5.0\out.csprojAssemblyReference.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\obj\Debug\net5.0\out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\obj\Debug\net5.0\out.AssemblyInfoInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\obj\Debug\net5.0\out.AssemblyInfo.cs
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\obj\Debug\net5.0\out.csproj.CoreCompileInputs.cache
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\obj\Debug\net5.0\out.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\obj\Debug\net5.0\ref\out.dll
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\obj\Debug\net5.0\out.pdb
+C:\Users\PQDT-LESSA\Desktop\curso de C#\out\obj\Debug\net5.0\out.genruntimeconfig.cache
